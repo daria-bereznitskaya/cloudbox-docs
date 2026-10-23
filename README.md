@@ -5,3 +5,5 @@ CloudBox - вымышленная программа. Данный учебны�
 ## Содержание
 1. [Инструкция по обновлению CloudBox](user-guide/update.md)
 2. [Ошибки при обновлении CloudBox](troubleshooting/update-errors.md)
+
+CloudBox API documentation is under development.
